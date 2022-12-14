@@ -1,0 +1,6 @@
+gml_path: ../clique_cp.gml
+max_itr: 50000000
+max_num_groups: 64
+initial_num_groups: 2
+saved_data_name: clique_cp
+save_directory: ../hcp_sims/
