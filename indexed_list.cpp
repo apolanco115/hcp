@@ -1,5 +1,5 @@
 //
-// Written by Austin Polanco on 14-JUL-22.
+// Written by Austin Polanco on 14 JUL 22.
 //
 
 #include "indexed_list.h"

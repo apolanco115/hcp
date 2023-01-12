@@ -1,6 +1,6 @@
 # Hierarchical core-periphery structure in networks
 
-This code is an implementation of our model for hierarchical core-periphery structure in networks as presented in this paper.
+This code is an implementation of our model for hierarchical core-periphery structure in networks as presented in this [paper](https://arxiv.org/abs/2301.03630).
 
 ## Disclaimer
 The code has only been tested with C++17 and compiled with Apple clang version 14.0.0. The application requires the C++17 standard and the GNU Scientific Library (GSL) 2.7.1
