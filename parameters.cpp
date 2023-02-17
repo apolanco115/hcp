@@ -3,6 +3,7 @@
 //
 
 #include "parameters.h"
+#include <climits>
 #include <iostream>
 #include <fstream>
 #include <sstream>
